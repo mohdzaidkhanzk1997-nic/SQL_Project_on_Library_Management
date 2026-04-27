@@ -31,6 +31,8 @@ performing CRUD operations, and executing advanced SQL queries. The goal is to s
 
 **2. Table Creation** :Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
+```sql
+
 CREATE DATABASE library_db;
 
  CREATE TABLE branch 
